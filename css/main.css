@@ -1,0 +1,17 @@
+p{
+	font-family: Times;	
+	text-align: center;
+}
+div{
+	border: 10px solid yellow;
+	width: 200px;
+	margin: 10px 10px;
+	padding: 20px 30px;
+}
+.segundo{
+	border: 10px solid yellow;
+	width: 200px;
+	margin: 10px 10px;
+	padding: 20px 30px;
+	margin: 0 auto;
+}
